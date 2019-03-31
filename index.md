@@ -12,10 +12,10 @@ layout: default
 * 4、[Vision](04-vision)（项目愿景）
 * 5、[Product Backlog](05-backlog) （产品特性库）
 * 6、[Requirement specification](06-requirements)（需求规格说明书）
-    - 6.1 Usecase Diagram（用例图）
+    - 6.1 [Usecase Diagram](06-01-usecase.md)（用例图）
     - 6.2 Use Cases（用例+活动图）
     - 6.3 Domian Models（领域模型）
-    - 6.4 State Models（状态模型）
+    - 6.4 [State Models](State_model)（状态模型）
     - 6.5 System Sequence Diagrams（功能模型）
     - 6.6 Supplementary Requirements（补充需求）
 * 7、[Design](07-designs)（设计说明书）
