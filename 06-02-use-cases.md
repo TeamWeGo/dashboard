@@ -55,11 +55,11 @@
 **发生频率** ：可能会频繁发生。
 
 **用例图**
-![use_case1](images/use_case2.png)
+![use_case1](images/use_case2.PNG)
 
 **活动图**：
 
-![活动图1](images/state1.png)
+![活动图1](images/state1.PNG)
 
 ## Use case 2 用户接收任务
 
@@ -110,8 +110,8 @@
 **发生频率** ：可能会频繁发生。
 
 **用例图**
-![use_case2](images/use_case1.png)
+![use_case2](images/use_case1.PNG)
 
 **活动图**：
 
-![活动图2](images/state2.png)
+![活动图2](images/state2.PNG)
