@@ -71,9 +71,11 @@ title: 竞品分析报告
 
 ### 3.3 调查结果
 
-![image-20190331232934086](/Users/apple/Library/Application Support/typora-user-images/image-20190331232934086.png)
+![](./images/调查结果1.png)
 
-![image-20190331233000341](/Users/apple/Library/Application Support/typora-user-images/image-20190331233000341.png)
+![](./images/调查结果2.png)
+
+
 
 ### 3.4 调研总结
 
