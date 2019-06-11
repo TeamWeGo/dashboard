@@ -22,7 +22,7 @@ layout: default
     - 7.1 UI design（界面设计）
     - 7.2 [Database design](./07-02-db.html)（数据库设计）
     - 7.3 [Interface API design](./07-03-API.html)(接口 API 设计)
-    - 7.4 [Architecture design](./07-04-Software Architecture.html)(架构设计)
+    - 7.4 [Architecture design](./07-04-Software-Architecture.html)(架构设计)
     - 7.5 Usecase design（用例设计）
 * 8、生产规范与指南
     - 8.1 XX 代码规范
