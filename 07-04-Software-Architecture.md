@@ -37,7 +37,7 @@
 
 
 
-## 物理视图
+## 部署视图（Deployment Diagram）
 
 ![](./images/software_physic_architecture.png)
 
