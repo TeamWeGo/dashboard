@@ -18,7 +18,7 @@ title: 审计记录
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
 | 16340293 | zxftuid | [任务发布页 输入的格式不统一](https://github.com/TeamWeGo/source_code/issues/41) | https://github.com/TeamWeGo/source_code/issues/41 |
-|16340301|JunxiangZhao|ER建模不合理|https://github.com/SSASGroup/Dashboard/issues/2|
+
 
 ## 审计评分标准
 
