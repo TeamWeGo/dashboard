@@ -39,6 +39,7 @@ layout: default
 * X3 [auditing-records](x3-auditing.md)
 * X4 [Tech/Work Report](x4-techniques.md)
     - [16340293-微信小程序mpvue框架云开发](https://www.yuque.com/zxftuid/lvqlec/pgz8ur)
+    - [16340301-小程序开发前端](http://localhost:4000/2019/06/23/SWSAD-techReport/)
 * X5 [Final Report](x5-summary.md)
     - [16340293-zxftuid](https://www.yuque.com/zxftuid/liq6qq/fudbfv)
     - [16340294-Duke](https://dukecheung.github.io/2019/06/23/2019-06-23-SWSAD)
