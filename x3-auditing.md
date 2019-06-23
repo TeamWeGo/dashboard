@@ -4,22 +4,19 @@ title: 审计记录
 ---
 
 # 审计记录
-{:.no_toc}
-
-* 目录
-{:toc}
 
 ## 1、需求审计
 
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
-| 007 | linyq17 | [domain: order and memu](https://github.com/rookies-sysu/Dashboard/issues/1) |  https://github.com/rookies-sysu/Dashboard/issues/1 |
+| 16340293 | zxftuid |  [登录的用户需要在全局使用](https://github.com/TeamWeGo/source_code/issues/43)| https://github.com/TeamWeGo/source_code/issues/43 |
+|16340293|zxftuid|[API](https://github.com/TeamWeGo/source_code/issues/42#issuecomment-504748590)|https://github.com/TeamWeGo/source_code/issues/42#issuecomment-504748590|
 
 ## 2、设计审计
 
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
-| 007 | linyq17 | [xxx](https://github.com/rookies-sysu/Dashboard/issues/1) |  https://github.com/rookies-sysu/Dashboard/issues/1 |
+| 16340293 | zxftuid | [任务发布页 输入的格式不统一](https://github.com/TeamWeGo/source_code/issues/41) | https://github.com/TeamWeGo/source_code/issues/41 |
 
 ## 审计评分标准
 
