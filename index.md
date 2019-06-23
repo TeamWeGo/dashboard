@@ -41,5 +41,5 @@ layout: default
     - 学号-title
 * X5 [Final Report](x5-summary)
     - 学号-title
-    - 小组分工与贡献率说明
+    - [小组分工与贡献率说明](x5-fengong.md)
 
