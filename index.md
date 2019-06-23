@@ -25,7 +25,7 @@ layout: default
     - 7.4 [Architecture design](./07-04-Software-Architecture.html)(架构设计)
     - 7.5 Usecase design（用例设计）
 * 8、生产规范与指南
-    - 8.1 XX 代码规范
+    - 8.1 [代码规范](./08-01-CodeStyle.md)（代码规范）
     - 8.2 REST API 设计规范
     - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
     - 8.4 [部署说明](./08-04-Deployment.md)
