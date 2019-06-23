@@ -42,5 +42,6 @@ layout: default
 * X5 [Final Report](x5-summary.md)
     - [16340293-zxftuid](https://www.yuque.com/zxftuid/liq6qq/fudbfv)
     - [16340294-Duke](https://dukecheung.github.io/2019/06/23/2019-06-23-SWSAD)
+    - [16340301-JunxiangZhao](http://localhost:4000/2019/06/23/projectReport/)
     - [小组分工与贡献率说明](x5-fengong.md)
 
