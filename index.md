@@ -6,19 +6,19 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、[About](01-about)（项目概况）
-* 2、[Team profile](02-team-profile)（团队组建与分工）
-* 3、[Investigation](03-invest)（项目前期调研/竞品分析）
-* 4、[Vision](04-vision)（项目愿景）
-* 5、[Product Backlog](05-backlog) （产品特性库）
-* 6、[Requirement specification](06-requirements)（需求规格说明书）
+* 1、[About](01-about.md)（项目概况）
+* 2、[Team profile](02-team-profile.md)（团队组建与分工）
+* 3、[Investigation](03-invest.md)（项目前期调研/竞品分析）
+* 4、[Vision](04-vision.md)（项目愿景）
+* 5、[Product Backlog](05-backlog.md) （产品特性库）
+* 6、[Requirement specification](06-requirements.md)（需求规格说明书）
     - 6.1 [Usecase Diagram](06-01-usecase.md)（用例图）
     - 6.2 [Use Cases](06-02-use-cases.md)（用例+活动图）
     - 6.3 [Domian Models](https://github.com/TeamWeGo/dashboard/blob/gh-pages/images/domain.png?raw=true)（领域模型）
     - 6.4 [State Models](06-04-state-model.html)（状态模型）
     - 6.5 [System Sequence Diagrams](06-05-System-Sequence-Diagram.html)（功能模型）
     - 6.6 [Supplementary Requirements](06-06-supplementary-requirements.html)（补充需求）
-* 7、[Design](07-designs)（设计说明书）
+* 7、[Design](07-designs.md)（设计说明书）
     - 7.1 [UI design](./07-01-UIDesign.md)（界面设计）
     - 7.2 [Database design](./07-02-db.html)（数据库设计）
     - 7.3 [Interface API design](./07-03-API.html)(接口 API 设计)
@@ -36,10 +36,10 @@ layout: default
     - [iteration1-meeting1 (2019/3/19)](X1-iteration1-meeting1.html)
     - [iteration1-meeting2 (2019/3/21)](X1-iteration1-meeting2.html)
 * X2 [KANBAN](https://github.com/TeamWeGo/teamwego/projects)
-* X3 [auditing-records](x3-auditing)
-* X4 [Tech/Work Report](x4-techniques)
+* X3 [auditing-records](x3-auditing.md)
+* X4 [Tech/Work Report](x4-techniques.md)
     - [16340293-微信小程序mpvue框架云开发](https://www.yuque.com/zxftuid/lvqlec/pgz8ur)
-* X5 [Final Report](x5-summary)
+* X5 [Final Report](x5-summary.md)
     - [16340293-zxftuid](https://www.yuque.com/zxftuid/liq6qq/fudbfv)
     - [16340294-Duke](https://dukecheung.github.io/2019/06/23/2019-06-23-SWSAD)
     - [小组分工与贡献率说明](x5-fengong.md)
