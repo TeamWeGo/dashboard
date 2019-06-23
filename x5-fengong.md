@@ -4,16 +4,16 @@
 
 |   学号   |  姓名  |           GitHub账号            |
 | :------: | :----: | :-----------------------------: |
-| 16340294 |  张星  |  https://github.com/DukeCheung  |
-| 16340293 | 张晓帆 |   https://github.com/zxftuid    |
-| 16340301 | 赵俊祥 | https://github.com/JunxiangZhao |
-| 16340296 | 张子权 | https://github.com/zhangziquan  |
-| 16340319 | 庄文梓 |   https://github.com/zhuangwz   |
-| 16340264 | 许延泽 | https://github.com/hackerpeter1 |
+| 16340294 |  DukeCheung  |  https://github.com/DukeCheung  |
+| 16340293 | zxftuid |   https://github.com/zxftuid    |
+| 16340301 | JunxiangZhao | https://github.com/JunxiangZhao |
+| 16340296 | zhangziquan | https://github.com/zhangziquan  |
+| 16340319 | zhuangwz |   https://github.com/zhuangwz   |
+| 16340264 | hackerpeter1 | https://github.com/hackerpeter1 |
 
 ## PSP2.1 汇总表
 
-|      项目      | 张星 | 张晓帆 | 赵俊祥 | 张子权 | 庄文梓 | 许严泽 |
+|      项目      | DukeCheung | zxftuid | JunxiangZhao | zhangziquan | zhuangwz | hackerpeter1 |
 | :------------: | :--: | :----: | :----: | :----: | :----: | :----: |
 |      计划      |      |   8    |        |        |        |        |
 | * 估计任务时间 |      |   8    |        |        |        |        |
@@ -44,7 +44,7 @@
 
 ## 综合贡献度分配
 
-| 制品       |                                                              | 张星 | 张晓帆 | 赵俊祥 | 张子权 | 庄文梓 | 许延泽 |
+| 制品       |                                                              | DukeCheung | zxftuid | JunxiangZhao | zhangziquan | zhuangwz | hackerpeter1 |
 | ---------- | ------------------------------------------------------------ | ---- | ------ | ------ | ------ | ------ | ------ |
 | 源代码     | 项目代码。<br />[source_code](https://github.com/TeamWeGo/source_code) | 19%  | 21%    | 18%    | 20%    | 17%    | 5%     |
 | 项目看板   | [看板](https://github.com/TeamWeGo/teamwego/projects)        | 10%  | 10%    | 10%    | 10%    | 10%    | 50%    |
