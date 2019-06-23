@@ -40,9 +40,11 @@ layout: default
 * X4 [Tech/Work Report](x4-techniques.md)
     - [16340293-微信小程序mpvue框架云开发](https://www.yuque.com/zxftuid/lvqlec/pgz8ur)
     - [16340301-小程序开发前端](http://localhost:4000/2019/06/23/SWSAD-techReport/)
+    - [16340296-mpvue前端小技巧](https://www.ziquanzhang.ink/2019/06/23/mpvue%E5%89%8D%E7%AB%AF%E5%B0%8F%E6%8A%80%E5%B7%A7/)
 * X5 [Final Report](x5-summary.md)
     - [16340293-zxftuid](https://www.yuque.com/zxftuid/liq6qq/fudbfv)
     - [16340294-Duke](https://dukecheung.github.io/2019/06/23/2019-06-23-SWSAD)
     - [16340301-JunxiangZhao](http://localhost:4000/2019/06/23/projectReport/)
+    - [16340296-Artorias](https://www.ziquanzhang.ink/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/)
     - [小组分工与贡献率说明](x5-fengong.md)
 
