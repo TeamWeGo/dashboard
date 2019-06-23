@@ -38,8 +38,8 @@ layout: default
 * X2 [KANBAN](https://github.com/TeamWeGo/teamwego/projects)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
-    - 学号-title
+    - [16340293-微信小程序mpvue框架云开发](https://www.yuque.com/zxftuid/lvqlec/pgz8ur)
 * X5 [Final Report](x5-summary)
-    - 学号-title
+    - [16340293-个人总结](https://www.yuque.com/zxftuid/liq6qq/fudbfv)
     - [小组分工与贡献率说明](x5-fengong.md)
 
