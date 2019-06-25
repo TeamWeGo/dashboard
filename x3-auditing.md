@@ -9,15 +9,14 @@ title: 审计记录
 
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
-| 16340293 | zxftuid |  [登录的用户需要在全局使用](https://github.com/TeamWeGo/source_code/issues/43)| https://github.com/TeamWeGo/source_code/issues/43 |
-|16340293|zxftuid|[API](https://github.com/TeamWeGo/source_code/issues/42#issuecomment-504748590)|https://github.com/TeamWeGo/source_code/issues/42#issuecomment-504748590|
+| 16340293 | zxftuid |  [UI设计](https://github.com/SSASGroup/Dashboard/issues/5)| https://github.com/SSASGroup/Dashboard/issues/5 |
 |16340301|JunxiangZhao|缺少问卷结果统计功能|https://github.com/SSASGroup/Dashboard/issues/1|
 
 ## 2、设计审计
 
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
-| 16340293 | zxftuid | [任务发布页 输入的格式不统一](https://github.com/TeamWeGo/source_code/issues/41) | https://github.com/TeamWeGo/source_code/issues/41 |
+| 16340293 | zxftuid | [使用https替代http](https://github.com/SSASGroup/Dashboard/issues/4) | https://github.com/SSASGroup/Dashboard/issues/4|
 |16340301|JunxiangZhao|ER建模不合理|https://github.com/SSASGroup/Dashboard/issues/2|
 
 ## 审计评分标准
