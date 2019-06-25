@@ -4,22 +4,20 @@ title: 审计记录
 ---
 
 # 审计记录
-{:.no_toc}
-
-* 目录
-{:toc}
 
 ## 1、需求审计
 
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
-| 007 | linyq17 | [domain: order and memu](https://github.com/rookies-sysu/Dashboard/issues/1) |  https://github.com/rookies-sysu/Dashboard/issues/1 |
+| 16340293 | zxftuid |  [UI设计](https://github.com/SSASGroup/Dashboard/issues/5)| https://github.com/SSASGroup/Dashboard/issues/5 |
+|16340301|JunxiangZhao|缺少问卷结果统计功能|https://github.com/SSASGroup/Dashboard/issues/1|
 
 ## 2、设计审计
 
 | 学号 | github-id | 标题 | issue url |
 |:--:|---|---|---|
-| 007 | linyq17 | [xxx](https://github.com/rookies-sysu/Dashboard/issues/1) |  https://github.com/rookies-sysu/Dashboard/issues/1 |
+| 16340293 | zxftuid | [使用https替代http](https://github.com/SSASGroup/Dashboard/issues/4) | https://github.com/SSASGroup/Dashboard/issues/4|
+|16340301|JunxiangZhao|ER建模不合理|https://github.com/SSASGroup/Dashboard/issues/2|
 
 ## 审计评分标准
 
