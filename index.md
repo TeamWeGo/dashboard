@@ -38,6 +38,7 @@ layout: default
 * X2 [KANBAN](https://github.com/TeamWeGo/teamwego/projects)
 * X3 [auditing-records](x3-auditing.md)
 * X4 [Tech/Work Report](x4-techniques.md)
+    - [16340319-微信小程序mpvue前端开发](https://zhuangwz.github.io/SSAD_Homework/homework/list.html)
     - [16340293-微信小程序mpvue框架云开发](https://www.yuque.com/zxftuid/lvqlec/pgz8ur)
     - [16340301-小程序开发前端](https://junxiangzhao.github.io/2019/06/23/SWSAD-techReport/)
     - [16340296-mpvue前端小技巧](https://www.ziquanzhang.ink/2019/06/23/mpvue%E5%89%8D%E7%AB%AF%E5%B0%8F%E6%8A%80%E5%B7%A7/)
