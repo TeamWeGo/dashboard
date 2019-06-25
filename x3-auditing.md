@@ -12,6 +12,7 @@ title: 审计记录
 | 16340293 | zxftuid |  [UI设计](https://github.com/SSASGroup/Dashboard/issues/5)| https://github.com/SSASGroup/Dashboard/issues/5 |
 |16340301|JunxiangZhao|缺少问卷结果统计功能|https://github.com/SSASGroup/Dashboard/issues/1|
 |16340319|zhuangwz| [功能设计](https://github.com/Walikrence/swsad-project/issues/6)|https://github.com/Walikrence/swsad-project/issues/6|
+|16340294|DukeCheung| [功能单一](https://github.com/SSASGroup/Dashboard/issues/7) | https://github.com/SSASGroup/Dashboard/issues/7|
 
 ## 2、设计审计
 
