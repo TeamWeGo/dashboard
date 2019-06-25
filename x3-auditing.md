@@ -21,6 +21,7 @@ title: 审计记录
 | 16340293 | zxftuid | [使用https替代http](https://github.com/SSASGroup/Dashboard/issues/4) | https://github.com/SSASGroup/Dashboard/issues/4|
 |16340301|JunxiangZhao|ER建模不合理|https://github.com/SSASGroup/Dashboard/issues/2|
 |16340319|zhuangwz|[设计审计](https://github.com/Walikrence/swsad-project/issues/8)|https://github.com/Walikrence/swsad-project/issues/8|
+|16340294|DukeCheung|[设计审计](https://github.com/Walikrence/swsad-project/issues/9)|https://github.com/Walikrence/swsad-project/issues/9|
 
 ## 审计评分标准
 
