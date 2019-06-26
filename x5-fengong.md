@@ -37,9 +37,13 @@
 
 ## 项目所有贡献图表截图
 
+开发：
+
 ![](https://raw.githubusercontent.com/zxftuid/picbed/image/img/20190623201852.png)
 
+文档：
 
+![image-20190626170454810](/Users/apple/Library/Application Support/typora-user-images/image-20190626170454810.png)
 
 
 
