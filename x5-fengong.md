@@ -43,7 +43,7 @@
 
 文档：
 
-![image-20190626170454810](/Users/apple/Library/Application Support/typora-user-images/image-20190626170454810.png)
+![](./images/document_division.png)
 
 
 
