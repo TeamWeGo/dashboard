@@ -34,7 +34,7 @@ layout: default
 * X1 [meeting-records](x1-meetings)
     - [iteration1-meeting1 (2019/3/19)](X1-iteration1-meeting1.html)
     - [iteration1-meeting2 (2019/3/21)](X1-iteration1-meeting2.html)
-    - [iteration1-meeting2 (2019/4/19)](X1-iteration1-meeting3.html)
+    - [iteration1-meeting3 (2019/4/19)](X1-iteration1-meeting3.html)
 * X2 [KANBAN](https://github.com/TeamWeGo/teamwego/projects)
 * X3 [auditing-records](x3-auditing.md)
 * X4 [Tech/Work Report](x4-techniques.md)
