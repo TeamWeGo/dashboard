@@ -30,8 +30,7 @@ layout: default
     - 8.3 [BCE方法到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit.html)
     - 8.4 [部署说明](./08-04-Deployment.md)
 * 9、成品展示
-    - 9.1 XX短视频
-    - 9.2 XX短视频
+    - [演示视频](https://www.bilibili.com/video/av56938510/)
 * X1 [meeting-records](x1-meetings)
     - [iteration1-meeting1 (2019/3/19)](X1-iteration1-meeting1.html)
     - [iteration1-meeting2 (2019/3/21)](X1-iteration1-meeting2.html)

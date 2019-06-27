@@ -13,6 +13,7 @@ title: 审计记录
 |16340301|JunxiangZhao|缺少问卷结果统计功能|https://github.com/SSASGroup/Dashboard/issues/1|
 |16340319|zhuangwz| [功能设计](https://github.com/Walikrence/swsad-project/issues/6)|https://github.com/Walikrence/swsad-project/issues/6|
 |16340294|DukeCheung| [功能单一](https://github.com/SSASGroup/Dashboard/issues/7) | https://github.com/SSASGroup/Dashboard/issues/7|
+|16340296|zhangziquan|[问卷设计](https://github.com/SSASGroup/Dashboard/issues/6) | https://github.com/SSASGroup/Dashboard/issues/6|
 
 ## 2、设计审计
 
@@ -22,6 +23,7 @@ title: 审计记录
 |16340301|JunxiangZhao|ER建模不合理|https://github.com/SSASGroup/Dashboard/issues/2|
 |16340319|zhuangwz|[设计审计](https://github.com/Walikrence/swsad-project/issues/8)|https://github.com/Walikrence/swsad-project/issues/8|
 |16340294|DukeCheung|[设计审计](https://github.com/Walikrence/swsad-project/issues/9)|https://github.com/Walikrence/swsad-project/issues/9|
+|16340296|zhangziquan|[UI设计](https://github.com/Walikrence/swsad-project/issues/13)|https://github.com/Walikrence/swsad-project/issues/13|
 
 ## 审计评分标准
 
