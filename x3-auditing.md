@@ -14,6 +14,7 @@ title: 审计记录
 |16340319|zhuangwz| [功能设计](https://github.com/Walikrence/swsad-project/issues/6)|https://github.com/Walikrence/swsad-project/issues/6|
 |16340294|DukeCheung| [功能单一](https://github.com/SSASGroup/Dashboard/issues/7) | https://github.com/SSASGroup/Dashboard/issues/7|
 |16340296|zhangziquan|[问卷设计](https://github.com/SSASGroup/Dashboard/issues/6) | https://github.com/SSASGroup/Dashboard/issues/6|
+|16340264|hackerpeter1|AI临近任务匹配机制 | https://github.com/SSASGroup/Dashboard/issues/12 |
 
 ## 2、设计审计
 
@@ -24,6 +25,7 @@ title: 审计记录
 |16340319|zhuangwz|[设计审计](https://github.com/Walikrence/swsad-project/issues/8)|https://github.com/Walikrence/swsad-project/issues/8|
 |16340294|DukeCheung|[设计审计](https://github.com/Walikrence/swsad-project/issues/9)|https://github.com/Walikrence/swsad-project/issues/9|
 |16340296|zhangziquan|[UI设计](https://github.com/Walikrence/swsad-project/issues/13)|https://github.com/Walikrence/swsad-project/issues/13|
+|16340264|hackerpeter1|[设计审计](https://github.com/Walikrence/swsad-project/issues/16)|https://github.com/Walikrence/swsad-project/issues/16|
 
 ## 审计评分标准
 
